@@ -1,0 +1,16 @@
+C:\Users\mladmin\Desktop\POCDevops\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mladmin\Desktop\POCDevops\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mladmin\Desktop\POCDevops\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mladmin\Desktop\POCDevops\POC\POC\bin\Debug\POC.dll
+C:\Users\mladmin\Desktop\POCDevops\POC\POC\bin\Debug\POC.pdb
+C:\Users\mladmin\Desktop\POCDevops\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mladmin\Desktop\POCDevops\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mladmin\Desktop\POCDevops\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mladmin\Desktop\POCDevops\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mladmin\Desktop\POCDevops\POC\POC\obj\Debug\POC.csprojResolveAssemblyReference.cache
+C:\Users\mladmin\Desktop\POCDevops\POC\POC\obj\Debug\POC.dll
+C:\Users\mladmin\Desktop\POCDevops\POC\POC\obj\Debug\POC.pdb
+C:\Users\mladmin\Desktop\POCDevops\POC\POC\bin\Debug\WebDriver.dll
+C:\Users\mladmin\Desktop\POCDevops\POC\POC\bin\Debug\WebDriver.Support.dll
+C:\Users\mladmin\Desktop\POCDevops\POC\POC\bin\Debug\WebDriver.xml
+C:\Users\mladmin\Desktop\POCDevops\POC\POC\bin\Debug\WebDriver.Support.xml
